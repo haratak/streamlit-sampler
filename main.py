@@ -163,12 +163,13 @@ slider_value = st.slider('Set Value', 0, 100, 50)
 """
 
 st.sidebar.title('Sidebar')
-st.sidebar.write('Sidebar')
-"""
+st.sidebar.write(
+    """
 ```python
-st.line_chart(df)
+st.sidebar.title('Sidebar')
 ```
 """
+)
 
 st.title('Markdown')
 """
