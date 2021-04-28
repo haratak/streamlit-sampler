@@ -5,4 +5,4 @@ streamlit main.py
 ```
 
 ## SAMPLE PAGE
-[🔗 Link](https://lit-fjord-90903.herokuapp.com/)
+[🔗 Link](https://share.streamlit.io/taku-sami/streamlit-sampler/main.py)
